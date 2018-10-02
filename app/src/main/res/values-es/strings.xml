@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PruebaLenguaje2</string>
+    <string name="Hello">¡Hola Mundo!</string>
+    <string name="boton">Español</string>
+    <string name="botoningles">Ingles</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PruebaLenguaje2</string>
+    <string name="Hello">N/A Hello</string>
+    <string name="boton">Spanish</string>
+    <string name="botoningles">English</string>
+</resources>
